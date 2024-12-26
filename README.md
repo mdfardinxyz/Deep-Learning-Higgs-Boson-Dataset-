@@ -2,7 +2,7 @@
 
 ### Abstract 
 
-Advisor: [Mir Sazzat Hossain](https://www.mirsazzathossain.me/) | Junior Research Scientist, Center for Computational & Data Sciences, Independent University Bangladesh (IUB).
+Advisor: [**Mir Sazzat Hossain**](https://www.mirsazzathossain.me/) | Junior Research Scientist, Center for Computational & Data Sciences, Independent University Bangladesh (IUB).
 
 Timeline: October 2024
 
