@@ -1,4 +1,4 @@
-## Training a Neural Network for Processing Higgs Boson Dataset 
+## Training of a Neural Network for Processing Higgs Boson Dataset 
 
 ### Abstract 
 
