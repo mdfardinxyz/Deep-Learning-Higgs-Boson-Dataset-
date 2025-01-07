@@ -1,6 +1,7 @@
 ## Training of a Neural Network for Processing Higgs Boson Dataset 
 
 ### Abstract 
+In this study, we used a deep learning model to detect the Higgs boson by utilizing the HIGGS dataset, which contains a large amount of particle collision data. Our neural network model, which was trained on 800,000 data, uses backpropagation and layers of neurons to maximize its predictions. The model's accuracy during five training epochs was 47.01%. This outcome shows how deep learning methods can be used to tackle challenging particle physics issues. 
 
 Advisor: [**Mir Sazzat Hossain**](https://www.mirsazzathossain.me/) | Junior Research Scientist, Center for Computational & Data Sciences, Independent University Bangladesh (IUB).
 
